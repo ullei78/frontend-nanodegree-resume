@@ -1,1 +1,1 @@
-$("#main").append("Thomas Ulrich");
+$("#main").append(Thomas Ulrich);
